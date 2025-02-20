@@ -1,8 +1,8 @@
-# tranngochuan.github.io
-
 # My Profile Page
 
 This project consists of a static profile page built with HTML and CSS, served using Python Flask.
+
+##**Overview**
 
 ## Frontend
 
@@ -22,3 +22,6 @@ Advanced part: It serves the static profile page and associated resources (image
     Basic part: `py app.py`
     Advanced part: `py app1.py`.
 4.  Open your web browser and navigate to `http://127.0.0.1:5000` (or the address shown in terminal).
+
+## GitHub Pages
+You can view my profile through: https://huanhuan1401.github.io/tranngochuan.github.io/
