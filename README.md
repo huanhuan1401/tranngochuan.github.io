@@ -23,7 +23,7 @@ Advanced part: It serves the static profile page and associated resources (image
 3.  Run the Flask:
     Basic part: `py app.py`
     Advanced part: `py app1.py`.
-4.  Open your web browser and navigate to `http://127.0.0.1:5000` (or the address shown in terminal).
+4.  Open your web browser and navigate to `http://localhost:5000` (or the address shown in terminal).
 
 ## GitHub Pages
 
